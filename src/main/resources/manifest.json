@@ -1,0 +1,18 @@
+{
+  "Group": "Gourmetto",
+  "Name": "Factions Reinvented",
+  "Version": "0.0.1",
+  "Description": "A Faction plugin for HyTale!",
+  "Authors": [
+    {
+      "Name": "Gourmetto"
+    }
+  ],
+  "Website": "github.com/AdrienBolling/Factions-Reinvented",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "gourmetto.factionsreinvented.plugin.FactionsReinvented",
+  "IncludesAssetPack": true
+}
