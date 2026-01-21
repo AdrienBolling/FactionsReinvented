@@ -1,4 +1,4 @@
-package com.gourmetto.factionsreinvented.auth.catalog.permissions;
+package com.gourmetto.factionsreinvented.auth.defaults.permission;
 
 import com.gourmetto.factionsreinvented.auth.core.permission.PermissionKey;
 import com.gourmetto.factionsreinvented.auth.core.resource.ResourceType;
