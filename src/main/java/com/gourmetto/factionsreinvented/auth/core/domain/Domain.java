@@ -1,4 +1,4 @@
-package com.gourmetto.factionsreinvented.domain.common;
+package com.gourmetto.factionsreinvented.auth.core.domain;
 
 import java.util.Objects;
 import java.util.Optional;
